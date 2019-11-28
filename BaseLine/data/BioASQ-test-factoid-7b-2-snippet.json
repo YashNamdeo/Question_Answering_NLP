@@ -1,0 +1,694 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "id": "5c74111f7c78d694710000a1_001",
+              "question": "Which transcription factor binding site is contained in Alu repeats?"
+            }
+          ],
+          "context": "Remarkably, we identified a novel abundant NF-\u03baB-binding site residing in specialized Alu-repetitive elements having the potential for long range transcription regulation, thus suggesting that in addition to its known role, NF-\u03baB has a primate-specific function and a role in human evolution."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c74111f7c78d694710000a1_002",
+              "question": "Which transcription factor binding site is contained in Alu repeats?"
+            }
+          ],
+          "context": "A de novo motif enrichment analysis uncovers secondary TFBSs (AP1, SP1) at characteristic distances from NF-\u03baB/RelA TFBSs."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c5219f67e3cb0e231000006_001",
+              "question": "As of September 2018, what machine learning algorithm is used to for cardiac arrhythmia detection from a  short single-lead ECG recorded by a wearable device?"
+            }
+          ],
+          "context": "SVM approach for cardiac arrhythmias detection in short single-lead ECG recorded by a wearable device"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c630666e842deac6700000c_001",
+              "question": "Which microRNA is the mediator of the obesity phenotype of patients carrying 1p21.3 microdeletions?"
+            }
+          ],
+          "context": "MIR137 is the mediator of the obesity phenotype of patients carrying 1p21.3 microdeletions."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c536b857e3cb0e23100001c_001",
+              "question": "What disease is treated with Laparoscopic Heller Myotomy (LHM)?"
+            }
+          ],
+          "context": " To compare the outcome of per oral endoscopic myotomy (POEM) and laparoscopic Heller myotomy (LHM) for the treatment of esophageal achalasia"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c536b857e3cb0e23100001c_002",
+              "question": "What disease is treated with Laparoscopic Heller Myotomy (LHM)?"
+            }
+          ],
+          "context": "Peroral endoscopic myotomy leads to higher rates of abnormal esophageal acid exposure than laparoscopic Heller myotomy in achalasia"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c536b857e3cb0e23100001c_003",
+              "question": "What disease is treated with Laparoscopic Heller Myotomy (LHM)?"
+            }
+          ],
+          "context": "Peroral endoscopic myotomy (POEM) is an emerging endoscopic treatment for achalasia and the long-term efficacy of POEM remains to be evaluated. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c783d32d774d04240000004_001",
+              "question": "Which human disease is experimental autoimmune encephalomyelitis (EAE) model for?"
+            }
+          ],
+          "context": "experimental autoimmune encephalomyelitis (EAE), an animal model of MS"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c783d32d774d04240000004_002",
+              "question": "Which human disease is experimental autoimmune encephalomyelitis (EAE) model for?"
+            }
+          ],
+          "context": "xperimental autoimmune encephalomyelitis (EAE), an animal model of multiple sclerosis"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c783d32d774d04240000004_003",
+              "question": "Which human disease is experimental autoimmune encephalomyelitis (EAE) model for?"
+            }
+          ],
+          "context": "relapsing MS and its model, experimental autoimmune encephalomyelitis (EAE)"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c783d32d774d04240000004_004",
+              "question": "Which human disease is experimental autoimmune encephalomyelitis (EAE) model for?"
+            }
+          ],
+          "context": "experimental autoimmune encephalomyelitis (EAE), an animal model of MS"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c73ad027c78d6947100008d_001",
+              "question": "What is evaluated with the SAD PERSONS scale?"
+            }
+          ],
+          "context": "METHOD: We compared the predictive accuracy of the Manchester Self-Harm Rule (MSHR), ReACT Self-Harm Rule (ReACT), SAD PERSONS Scale (SPS) and Modified SAD PERSONS Scale (MSPS) in an unselected sample of patients attending hospital following self-harm."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c73ad027c78d6947100008d_002",
+              "question": "What is evaluated with the SAD PERSONS scale?"
+            }
+          ],
+          "context": "Clinicians completed a standard suicide risk instrument (modified SAD PERSONS scale), a 10-point Likert scale assessment of judgment of patient suicide risk (Clinician Prediction Scale), and a measure of their emotional responses to the patient (Therapist Response Questionnaire-Suicide Form). "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c73ad027c78d6947100008d_003",
+              "question": "What is evaluated with the SAD PERSONS scale?"
+            }
+          ],
+          "context": "AimsTo evaluate the performance of risk scales (Manchester Self-Harm Rule, ReACT Self-Harm Rule, SAD PERSONS scale, Modified SAD PERSONS scale, Barratt Impulsiveness Scale); and patient and clinician estimates of risk in identifying patients who repeat self-harm within 6 months."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c73ad027c78d6947100008d_004",
+              "question": "What is evaluated with the SAD PERSONS scale?"
+            }
+          ],
+          "context": "Predicting suicide with the SAD PERSONS scale."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c73ad027c78d6947100008d_005",
+              "question": "What is evaluated with the SAD PERSONS scale?"
+            }
+          ],
+          "context": "The SAD PERSONS suicide risk assessment scale is widely implemented in clinical settings despite limited supporting evidence. This article aims to determine the ability of the SAD PERSONS scale (SPS) to predict future suicide in the emergency department."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c73ad027c78d6947100008d_006",
+              "question": "What is evaluated with the SAD PERSONS scale?"
+            }
+          ],
+          "context": "CONCLUSIONS: Although widely used in educational and clinical settings, these findings do not support the use of the SPS and Modified SPS to predict suicide in adults seen by psychiatric services in the emergency department."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c73ad027c78d6947100008d_007",
+              "question": "What is evaluated with the SAD PERSONS scale?"
+            }
+          ],
+          "context": " For the outcome suicide attempt SAD PERSONS Scale had a sensitivity of 15% (95% CI 8-24) and specificity of 97% (96-98), and the Manchester Self-Harm Rule (MSHR) a sensitivity of 97% (97-97) and a specificity of 20% (20-21). ReACT, which is a modification of MSHR, had a similar low specificity, as did the Sodersjukhuset Self Harm Rule. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c5f264b1a4c55d80b00001e_001",
+              "question": "What is the function of Plasminogen activator inhibitor 1?"
+            }
+          ],
+          "context": "Plasminogen activator inhibitor-1 (PAI-1) is an important physiological inhibitor of tissue-type plasminogen activator (tPA) and plays a critical role in fibrinolysis."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c5f264b1a4c55d80b00001e_002",
+              "question": "What is the function of Plasminogen activator inhibitor 1?"
+            }
+          ],
+          "context": " Plasminogen activator inhibitor-1 (PAI-1), the gene product of SERPINE1, inhibited cell adhesion, suggesting that PAI-1, like THBS1, has anti-angiogenic properties. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c5f264b1a4c55d80b00001e_003",
+              "question": "What is the function of Plasminogen activator inhibitor 1?"
+            }
+          ],
+          "context": "Plasminogen activator inhibitor-1 (PAI-1), a crucial regulator of fibrinolysis, is increased in sepsis, but its values in predicting disease severity or mortality outcomes have been controversial"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c646fd3e842deac6700001a_001",
+              "question": "Which disease is gemtuzumab ozogamicin used for?"
+            }
+          ],
+          "context": "Gemtuzumab ozogamicin (GO) is an anti-CD33 antibody-drug conjugate for the treatment of acute myeloid leukemia (AML). Although GO shows a narrow therapeutic window in early clinical studies, recent reports detailing a modified dosing regimen of GO can be safely combined with induction chemotherapy, and the combination provides significant survival benefits in AML patients."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c76d0417c78d694710000a8_001",
+              "question": "What is the cause if the rare disease cystinosis?"
+            }
+          ],
+          "context": "Cystinosis is a rare, autosomal recessive disorder leading to defective transport of cystine out of lysosomes."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c76d0417c78d694710000a8_002",
+              "question": "What is the cause if the rare disease cystinosis?"
+            }
+          ],
+          "context": "Cystinosis is a rare autosomal recessive disorder resulting from defective lysosomal transport of cystine due to mutations in the cystinosin lysosomal cystine transporter (CTNS) gene. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c76d0417c78d694710000a8_003",
+              "question": "What is the cause if the rare disease cystinosis?"
+            }
+          ],
+          "context": "Cystinosin, a lysosomal transporter is involved in the efflux of cystine from the lysosome to the cytosol. Mutations in the human cystinosin gene (CTNS) cause cystinosis, a recessive autosomal disorder. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6473b2e842deac6700001b_001",
+              "question": "Where does gemtuzumab ozogamicin bind?"
+            }
+          ],
+          "context": "Gemtuzumab ozogamicin is a CD33-targeted antibody-drug conjugate joined to calicheamicin. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6545bae842deac6700001d_001",
+              "question": "Which molecular does daratumumab target?"
+            }
+          ],
+          "context": "The addition of daratumumab (anti-CD38 antibody) augmented NK-cell cytotoxicity against target cells expressing high CD38, but not against CD38 low or negative target cells also in the presence of TME."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c73ad367c78d69471000099_001",
+              "question": "Which molecule is targeted by Olaratumab?"
+            }
+          ],
+          "context": "Population Pharmacokinetic Modeling of Olaratumab, an Anti-PDGFR\u03b1 Human Monoclonal Antibody, in Patients with Advanced and/or Metastatic Cancer."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c73ad367c78d69471000099_002",
+              "question": "Which molecule is targeted by Olaratumab?"
+            }
+          ],
+          "context": "BACKGROUND AND OBJECTIVES: Olaratumab is a recombinant human monoclonal antibody that binds to platelet-derived growth factor receptor-\u03b1 (PDGFR\u03b1)."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c73ad367c78d69471000099_003",
+              "question": "Which molecule is targeted by Olaratumab?"
+            }
+          ],
+          "context": "Conclusions: Overall, these data indicate that olaratumab, alone and in combination with standard of care, blocks the growth of some preclinical PDGFR\u03b1-expressing pediatric bone and soft tissue tumor models. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c73ad367c78d69471000099_004",
+              "question": "Which molecule is targeted by Olaratumab?"
+            }
+          ],
+          "context": "Recent randomised phase II trial data have indicated that the addition of olaratumab, a novel monoclonal antibody against platelet-derived growth factor receptor alpha (PDGFR\u03b1), to doxorubicin confers an unprecedented improvement in overall survival to patients with anthracycline-na\u00efve advanced soft tissue sarcoma."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c73ad367c78d69471000099_005",
+              "question": "Which molecule is targeted by Olaratumab?"
+            }
+          ],
+          "context": "While preclinical data show that olaratumab specifically inhibits PDGFR\u03b1-mediated oncogenic signalling with attendant anti-tumour effects, a lack of correlation between pharmacodynamics markers of PDGFR\u03b1 inhibition and clinical benefit from olaratumab suggest other mechanisms beyond modulation of downstream PDGFR\u03b1 molecular pathways."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c73ad367c78d69471000099_006",
+              "question": "Which molecule is targeted by Olaratumab?"
+            }
+          ],
+          "context": "Lartruvo\u00ae (olaratumab) is a fully human immunoglobulin G subclass 1 (IgG1) monoclonal antibody that inhibits platelet-derived growth factor receptor alpha (PDGFR\u03b1). "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c65abd17c78d69471000009_001",
+              "question": "What is the predicted function for TMEM132 family?"
+            }
+          ],
+          "context": "TMEM132: an ancient architecture of cohesin and immunoglobulin domains define a new family of neural adhesion molecules."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c65abd17c78d69471000009_002",
+              "question": "What is the predicted function for TMEM132 family?"
+            }
+          ],
+          "context": "Here we show the full domain architecture of human TMEM132 family proteins solved using in-depth sequence and structural analysis. We reveal them to be five previously unappreciated cell adhesion molecules whose domain architecture has an early holozoan origin prior to the emergence of choanoflagellates and metazoa. The extra-cellular portions of TMEM132 proteins contain five conserved domains including three tandem immunoglobulin domains, and a cohesin domain homologue, the first such domain found in animals. These findings strongly predict a cellular adhesion function for TMEM132 family, connecting the extracellular medium with the intracellular actin cytoskeleton."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c7161f47c78d69471000066_001",
+              "question": "What is etarfolatide used for?"
+            }
+          ],
+          "context": "99mTc-etarfolatide, an imaging agent for folate receptor in healthy Japanese adults"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c7161f47c78d69471000066_002",
+              "question": "What is etarfolatide used for?"
+            }
+          ],
+          "context": " In contrast, the noninvasive single-photon emission computed tomography-based companion imaging agent, (99m)Tc-etarfolatide ((99m)Tc-EC20), is in development for use as a companion diagnostic with the FR\u03b1-targeted folate conjugate,"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6aef167c78d69471000023_001",
+              "question": "Which tool has been developed for GPU-accelerated alignment of bisulfite-treated DNA sequences?"
+            }
+          ],
+          "context": "Arioc: GPU-accelerated alignment of short bisulfite-treated reads."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6aef167c78d69471000023_002",
+              "question": "Which tool has been developed for GPU-accelerated alignment of bisulfite-treated DNA sequences?"
+            }
+          ],
+          "context": "The alignment of bisulfite-treated DNA sequences (BS-seq reads) to a large genome involves a significant computational burden beyond that required to align non-bisulfite-treated reads. In the analysis of BS-seq data, this can present an important performance bottleneck that can be mitigated by appropriate algorithmic and software-engineering improvements. One strategy is to modify the read-alignment algorithms by integrating the logic related to BS-seq alignment, with the goal of making the software implementation amenable to optimizations that lead to higher speed and greater sensitivity than might otherwise be attainable.Results: We evaluated this strategy using Arioc, a short-read aligner that uses GPU (general-purpose graphics processing unit) hardware to accelerate computationally-expensive programming logic. We integrated the BS-seq computational logic into both GPU and CPU code throughout the Arioc implementation. We then carried out a read-by-read comparison of Arioc's reported alignments with the alignments reported by well-known CPU-based BS-seq read aligners. With simulated reads, Arioc's accuracy is equal to or better than the other read aligners we evaluated. With human sequencing reads, Arioc's throughput is at least 10 times faster than existing BS-seq aligners across a wide range of sensitivity settings."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c7b1a5fd774d0424000000c_001",
+              "question": "A herd immunity of what percentage of the population is required to prevent sporadic outbreaks?"
+            }
+          ],
+          "context": "herd immunity exceeding 95% is required to prevent sporadic viral outbreaks in a population."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c5f1f371a4c55d80b00001a_001",
+              "question": "What is the normal function p53?"
+            }
+          ],
+          "context": "The three p53 family members, p53, p63 and p73, are structurally similar and share many biochemical activities. Yet, along with their common fundamental role in protecting genomic fidelity, each has acquired distinct functions related to diverse cell autonomous and non-autonomous processes. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c5f1f371a4c55d80b00001a_002",
+              "question": "What is the normal function p53?"
+            }
+          ],
+          "context": "The tumor suppressor p53 is a key regulator of apoptosis induced by various cellular stresses."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c5f1f371a4c55d80b00001a_003",
+              "question": "What is the normal function p53?"
+            }
+          ],
+          "context": "Direct functional restoration of p53 as a transcription factor has been difficult to achieve in the clinic. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c5f1f371a4c55d80b00001a_004",
+              "question": "What is the normal function p53?"
+            }
+          ],
+          "context": "The tumour suppressor gene TP53 is the most frequently mutated gene in cancer. Wild-type p53 can suppress tumour development by multiple pathways."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c61d278e842deac67000005_001",
+              "question": "Which disease can be classified with the Awaji Criteria?"
+            }
+          ],
+          "context": "Adoption of the Awaji criteria significantly increased the yield of EMG-positive segments in the cervical (P\u2009<\u20090.0005) and lumbosacral (P\u2009<\u20090.0001) regions, and upgraded 19 patients into the probable category and 1 patient into the definite category."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c61d278e842deac67000005_002",
+              "question": "Which disease can be classified with the Awaji Criteria?"
+            }
+          ],
+          "context": "The Awaji criteria increases the diagnostic sensitivity of the revised El Escorial criteria for amyotrophic lateral sclerosis diagnosis in a Chinese population."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c61d278e842deac67000005_003",
+              "question": "Which disease can be classified with the Awaji Criteria?"
+            }
+          ],
+          "context": "However, previous studies that have assessed the diagnostic sensitivities of the Awaji criteria (AC) and the revised El Escorial criteria (rEEC) in patients with ALS have been inconsistent, most of them were consensual regarding the advantage of Awaji over conventional criteria. Our study sought to compare the roles of AC and rEEC in the diagnosis of ALS."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c61d278e842deac67000005_004",
+              "question": "Which disease can be classified with the Awaji Criteria?"
+            }
+          ],
+          "context": "CONCLUSIONS: Our data demonstrated that the AC exhibited greater diagnostic sensitivity than the rEEC in a Chinese ALS population. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c61d278e842deac67000005_005",
+              "question": "Which disease can be classified with the Awaji Criteria?"
+            }
+          ],
+          "context": "OBJECTIVE: To assess the added prognostic value of the aggregated clinical and electrodiagnostic data, which define a given diagnostic category according to the Awaji or revised El Escorial criteria at time of diagnosis in patients with amyotrophic lateral sclerosis (ALS)."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c61d278e842deac67000005_006",
+              "question": "Which disease can be classified with the Awaji Criteria?"
+            }
+          ],
+          "context": "Diagnostic category according to Awaji (p\u2009<\u20090.0001) or to revised El Escorial (p\u2009=\u20090.0177) criteria, definite ALS according to Awaji (p\u2009<\u20090.0001) or to revised El Escorial (p\u2009=\u20090.0343) and number of regions with LMN involvement (p\u2009<\u20090.0001) were all associated with shorter survival."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c61d278e842deac67000005_007",
+              "question": "Which disease can be classified with the Awaji Criteria?"
+            }
+          ],
+          "context": "Methods: This is a cross-sectional and descriptive study including a consecutive series of patients with sporadic amyotrophic lateral sclerosis according to Awaji's criteria. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c61d278e842deac67000005_008",
+              "question": "Which disease can be classified with the Awaji Criteria?"
+            }
+          ],
+          "context": "The importance of fasciculation potentials in the diagnosis of ALS led to changes in electrophysiological criteria at Awaji consensus conference. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6be8f07c78d69471000032_001",
+              "question": "Which database has been developed that contains experimentally-confirmed carbonylated proteins?"
+            }
+          ],
+          "context": "CarbonylDB: a curated data-resource of protein carbonylation sites."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6be8f07c78d69471000032_002",
+              "question": "Which database has been developed that contains experimentally-confirmed carbonylated proteins?"
+            }
+          ],
+          "context": "Protein carbonylation, a chemically diverse oxidative post-translational modification, is widely considered as the biomarker for oxidative stress and protein damage. Despite their importance and extensive studies, no database/resource on carbonylated proteins/sites exists. As such information is very useful to research in biology/medicine, we have manually curated a data-resource (CarbonylDB) of experimentally-confirmed carbonylated proteins/sites.Results: The CarbonylDB currently contains 1495 carbonylated proteins and 3781 sites from 21 species, with human, rat and yeast as the top three species. We have made further analyses of these carbonylated proteins/sites and presented their occurrence and occupancy patterns. Carbonylation site data on serum albumin, in particular, provides a fine model system to understand the dynamics of oxidative protein modifications/damage."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c5249077e3cb0e23100000b_001",
+              "question": "What is the 3D tomography imaging technique for diagnosis of  eye disease?"
+            }
+          ],
+          "context": "To compare the effect of elevated intraocular pressure (IOP) on retinal capillary filling in elderly vs adult rats using optical coherence tomography angiography "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c5249077e3cb0e23100000b_002",
+              "question": "What is the 3D tomography imaging technique for diagnosis of  eye disease?"
+            }
+          ],
+          "context": "OCT data were captured using an optical microangiography (OMAG) scanning protocol and then post-processed to obtain both structural and vascular images."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c5249077e3cb0e23100000b_003",
+              "question": "What is the 3D tomography imaging technique for diagnosis of  eye disease?"
+            }
+          ],
+          "context": " Optical coherence tomography is used routinely in management of diabetic eye disease"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c5249077e3cb0e23100000b_004",
+              "question": "What is the 3D tomography imaging technique for diagnosis of  eye disease?"
+            }
+          ],
+          "context": "The study aims to evaluate the use of optical coherence tomography combined with a fundus camera compared with a fundus camera only"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c5249077e3cb0e23100000b_005",
+              "question": "What is the 3D tomography imaging technique for diagnosis of  eye disease?"
+            }
+          ],
+          "context": "To evaluate the ability of new Swept source (SS) optical coherence tomography (OCT) technology to detect changes in retinal and choroidal thickness in patients with Parkinson's disease"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c5249077e3cb0e23100000b_006",
+              "question": "What is the 3D tomography imaging technique for diagnosis of  eye disease?"
+            }
+          ],
+          "context": "Retinal and Choroidal Changes in Patients with Parkinson's Disease Detected by Swept-Source Optical Coherence Tomography."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c5249077e3cb0e23100000b_007",
+              "question": "What is the 3D tomography imaging technique for diagnosis of  eye disease?"
+            }
+          ],
+          "context": "New SS technology for OCT devices detects retinal thinning in PD patients, providing increased depth analysis of the choroid in these patients"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c5249077e3cb0e23100000b_008",
+              "question": "What is the 3D tomography imaging technique for diagnosis of  eye disease?"
+            }
+          ],
+          "context": "Diagnostic Function of 3D Optical Coherence Tomography Images in Diagnosis of Vogt-Koyanagi-Harada Disease at Acute Uveitis Stage."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c5249077e3cb0e23100000b_009",
+              "question": "What is the 3D tomography imaging technique for diagnosis of  eye disease?"
+            }
+          ],
+          "context": "This study analyzed the macular 3D-OCT images of Vogt-Koyanagi-Harada disease (VKH) in uveitis, explored the characteristics of 3D-OCT images of the macular region of VKH, and assessed which characteristics contribute most to VKH diagnosis."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c5249077e3cb0e23100000b_010",
+              "question": "What is the 3D tomography imaging technique for diagnosis of  eye disease?"
+            }
+          ],
+          "context": "The 3D-OCT examination of 25 cases of VKH was performed on the macular area, and the image characteristics were analyzed. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c65897a7c78d69471000006_001",
+              "question": "Which was the first mutant IDH2 inhibitor to be approved for patients with acute myeloid leukemia?"
+            }
+          ],
+          "context": "Enasidenib: First Mutant IDH2 Inhibitor for the Treatment of Refractory and Relapsed Acute Myeloid Leukemia."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c65897a7c78d69471000006_002",
+              "question": "Which was the first mutant IDH2 inhibitor to be approved for patients with acute myeloid leukemia?"
+            }
+          ],
+          "context": "The various findings about enasidenib revealed that it has been designed to allosterically inhibit mutated IDH2 to treat R/R AML patients"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c65897a7c78d69471000006_003",
+              "question": "Which was the first mutant IDH2 inhibitor to be approved for patients with acute myeloid leukemia?"
+            }
+          ],
+          "context": "Enasidenib or AG-221was introduced by FDA as an anticancer agent which was developed as a first in class, a selective allosteric inhibitor of the tumor target i.e. IDH2 for Relapsed or Refractory AML. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c5310c37e3cb0e231000010_001",
+              "question": "What part of the body is affected by Meniere's disease?"
+            }
+          ],
+          "context": "Steroids have been widely used to treat inner-ear diseases such as sudden sensorineural hearing loss, tinnitus, and Meniere's disease."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c5310c37e3cb0e231000010_002",
+              "question": "What part of the body is affected by Meniere's disease?"
+            }
+          ],
+          "context": "Meniere's disease is an inner ear disease, "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c5310c37e3cb0e231000010_003",
+              "question": "What part of the body is affected by Meniere's disease?"
+            }
+          ],
+          "context": "M\u00e9ni\u00e8re's Disease (MD) is a chronic, non-life threatening inner ear disease, "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c65901c7c78d69471000008_001",
+              "question": "Which disease is PGT121 used for?"
+            }
+          ],
+          "context": "We investigated adenovirus serotype 5 (Ad5) and adeno-associated virus serotype 1 (AAV1) vectors to deliver the HIV-1-specific bNAb PGT121 in wild-type and immunocompromised C57BL/6 mice as well as in HIV-1-infected bone marrow-liver-thymus (BLT) humanized mice."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c65901c7c78d69471000008_002",
+              "question": "Which disease is PGT121 used for?"
+            }
+          ],
+          "context": "In HIV-1-infected BLT humanized mice, Ad5.PGT121 resulted in a greater reduction of viral loads than did AAV1.PGT121. Ad5.PGT121 also led to more-sustained virologic control than purified PGT121 IgG. Ad5.PGT121 afforded more rapid, robust, and durable antiviral efficacy than AAV1.PGT121 and purified PGT121 IgG in HIV-1-infected humanized mice. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c65901c7c78d69471000008_003",
+              "question": "Which disease is PGT121 used for?"
+            }
+          ],
+          "context": "We investigated adenovirus serotype 5 (Ad5) and adeno-associated virus serotype 1 (AAV1) vectors to deliver the HIV-1-specific bNAb PGT121. Ad5.PGT121 afforded more rapid, robust, and durable antiviral efficacy than AAV1.PGT121 and purified PGT121 IgG in HIV-1-infected humanized mice."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c5312097e3cb0e231000011_001",
+              "question": "Where, in what US state, was there a measles outbreak in an Amish community"
+            }
+          ],
+          "context": "Recent outbreaks in Amish communities include a 2014 measles outbreak in Ohio, "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c5312097e3cb0e231000011_002",
+              "question": "Where, in what US state, was there a measles outbreak in an Amish community"
+            }
+          ],
+          "context": "Measles outbreaks in the United States continue to occur in subpopulations with sufficient numbers of undervaccinated individuals, with a 2014 outbreak in Amish communities in Ohio"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c0115e0133db5eb78000029_001",
+              "question": "What type of topoisomerase inhibitor is gepotidacin?"
+            }
+          ],
+          "context": "Gepotidacin, a novel triazaacenaphthylene antibacterial agent, is the first in a new class of type IIA topoisomerase inhibitors with activity against many biothreat and conventional pathogens, including Neisseria gonorrhoeae"
+        }
+      ],
+      "title": "BioASQ6b"
+    }
+  ],
+  "version": "BioASQ6b"
+}

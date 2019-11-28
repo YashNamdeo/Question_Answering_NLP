@@ -1,0 +1,460 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "id": "5c6e146a7c78d6947100004c_001",
+              "question": "Which two drugs are included in the MAVYRET pill?"
+            }
+          ],
+          "context": "A fixed-dose combination tablet of the hepatitis C virus (HCV) NS3/4A protease inhibitor (PI) glecaprevir and the HCV NS5A inhibitor pibrentasvir [glecaprevir/pibrentasvir; MAVIRET\u2122 (EU); MAVYRET\u2122 (USA)] has been developed by AbbVie."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6e146a7c78d6947100004c_002",
+              "question": "Which two drugs are included in the MAVYRET pill?"
+            }
+          ],
+          "context": "Aminolevulinic acid hydrochloride (Gleolan) for the visualization of malignant tissue during surgery; delafloxacin (Baxdela) for certain acute bacterial skin infections; and glecaprevir/pibrentasvir (Mavyret) for chronic HCV infection."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c61f379e842deac67000006_001",
+              "question": "Which de novo truncating mutations in WASF1 cause intellectual disability?"
+            }
+          ],
+          "context": "Here, using exome sequencing and whole-genome sequencing, we identified three de novo truncating mutations in WAS protein family member 1 (WASF1) in five unrelated individuals with moderate to profound intellectual disability with autistic features and seizures. WASF1, also known as WAVE1, is part of the WAVE complex and acts as a mediator between Rac-GTPase and actin to induce actin polymerization. The three mutations connected by Matchmaker Exchange were c.1516C>T (p.Arg506Ter), which occurs in three unrelated individuals, c.1558C>T (p.Gln520Ter), and c.1482delinsGCCAGG (p.Ile494MetfsTer23). All three variants are predicted to partially or fully disrupt the C-terminal actin-binding WCA domain. Functional studies using fibroblast cells from two affected individuals with the c.1516C>T mutation showed a truncated WASF1 and a defect in actin remodeling. This study provides evidence that de\u00a0novo heterozygous mutations in WASF1 cause a rare form of intellectual disability."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c53131e7e3cb0e231000012_001",
+              "question": "Please list symptoms of measles."
+            }
+          ],
+          "context": "ever and generalized maculopapular rash, plus \u22651 of the following symptoms: Coryza, conjunctivitis, or cough."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c5315727e3cb0e231000014_001",
+              "question": "What membrane proteins constitute TAM family of receptor tyrosine kinases (RTKs)?"
+            }
+          ],
+          "context": "TAM-family RTKs AXL and Mer (MerTK). "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c5315727e3cb0e231000014_002",
+              "question": "What membrane proteins constitute TAM family of receptor tyrosine kinases (RTKs)?"
+            }
+          ],
+          "context": "Deregulation of the TAM (TYRO3, AXL, and MERTK"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c5315727e3cb0e231000014_003",
+              "question": "What membrane proteins constitute TAM family of receptor tyrosine kinases (RTKs)?"
+            }
+          ],
+          "context": "TAM family members AXL or TYRO3 "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c5315727e3cb0e231000014_004",
+              "question": "What membrane proteins constitute TAM family of receptor tyrosine kinases (RTKs)?"
+            }
+          ],
+          "context": "receptors of the Tyro3/Axl/Mer (TAM) family of receptor tyrosine kinases (RTKs)"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c658a8f7c78d69471000007_001",
+              "question": "Name 4 side effects of enasidenib"
+            }
+          ],
+          "context": "Enasidenib is found to be associated with certain adverse effects like elevated bilirubin level, diarrhea, differentiation syndrome, decreased potassium and calcium levels etc."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c73ad087c78d69471000091_001",
+              "question": "Which drugs are included in the Orkambi pill?"
+            }
+          ],
+          "context": "Thus studies were conducted to examine the effects of lumacaftor alone and lumacaftor in combination with ivacaftor (i.e., ORKAMBI) on the ability of human CF ( del508Phe/ del508Phe) monocyte-derived macrophages (MDMs) to phagocytose and kill Pseudomonas aeruginosa."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c73ad087c78d69471000091_002",
+              "question": "Which drugs are included in the Orkambi pill?"
+            }
+          ],
+          "context": "In recent years, two modulators, ivacaftor (Kalydeco) and lumacaftor/ivacaftor (Orkambi), have been approved by the U.S. Food and Drug Administration to treat CF patients with certain CFTR mutations. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c73ad087c78d69471000091_003",
+              "question": "Which drugs are included in the Orkambi pill?"
+            }
+          ],
+          "context": "Recently, ORKAMBI, a combination therapy that includes a corrector of the processing defect of F508del-CFTR (lumacaftor or VX-809) and a potentiator of channel activity (ivacaftor or VX-770), was approved for CF patients homozygous for this mutation. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c73ad087c78d69471000091_004",
+              "question": "Which drugs are included in the Orkambi pill?"
+            }
+          ],
+          "context": "The recent US Food and Drug Administration (FDA) approval of lumacaftor combined with ivacaftor (Orkambi) targets patients with the F508del-CFTR. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c73ad087c78d69471000091_005",
+              "question": "Which drugs are included in the Orkambi pill?"
+            }
+          ],
+          "context": "In July 2015, the US Food and Drug Administration approved Orkambi (lumacaftor/ivacaftor), a combination drug that works on reversing the effects of the defective cystic fibrosis transmembrane conductance regulator protein. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c73ad087c78d69471000091_006",
+              "question": "Which drugs are included in the Orkambi pill?"
+            }
+          ],
+          "context": "Areas covered: In 2016, the Food and Drug Administration and the European Commission approved LUM/IVA (Orkambi), a CFTR modulator that includes both a CFTR corrector and potentiator, for CF patients homozygous for the F508del CFTR mutation. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c73ad087c78d69471000091_007",
+              "question": "Which drugs are included in the Orkambi pill?"
+            }
+          ],
+          "context": "The combination therapy of lumacaftor and ivacaftor (Orkambi\u00ae) is approved for patients bearing the major cystic fibrosis (CF) mutation: \u0394F508 It has been predicted that Orkambi\u00ae could treat patients with rarer mutations of similar \"theratype\"; however, a standardized approach confirming efficacy in these cohorts has not been reported."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c72d4c77c78d6947100007c_001",
+              "question": "Which proteins form the nuclear pore basket in human cells?"
+            }
+          ],
+          "context": "Nup133 Is Required for Proper Nuclear Pore Basket Assembly and Dynamics in Embryonic Stem Cells."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c72d4c77c78d6947100007c_002",
+              "question": "Which proteins form the nuclear pore basket in human cells?"
+            }
+          ],
+          "context": "Here we show that the NPC basket proteins Nup1 and Nup60 directly induce membrane curvature by amphipathic helix insertion into the lipid bilayer"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c72d4c77c78d6947100007c_003",
+              "question": "Which proteins form the nuclear pore basket in human cells?"
+            }
+          ],
+          "context": "Moreover, the association of TREX-2 with the NPC requires the basket nucleoporins NUP153 and TPR, but is independent of transcription. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c72d4c77c78d6947100007c_004",
+              "question": "Which proteins form the nuclear pore basket in human cells?"
+            }
+          ],
+          "context": " In esc1Delta cells, Ulp1 and nuclear basket components Nup60 and Mlp1 no longer distribute broadly around the nuclear periphery, but co-localize in a small number of dense-staining perinuclear foci."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c72d4c77c78d6947100007c_005",
+              "question": "Which proteins form the nuclear pore basket in human cells?"
+            }
+          ],
+          "context": "The nucleoporin Nup153 is required for nuclear pore basket formation, nuclear pore complex anchoring and import of a subset of nuclear proteins"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c72d4c77c78d6947100007c_006",
+              "question": "Which proteins form the nuclear pore basket in human cells?"
+            }
+          ],
+          "context": "NPCs assembled in the absence of Nup153 lacked several nuclear basket components, were unevenly distributed in the NE and, unlike wild-type NPCs, were mobile within the NE"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c72d4c77c78d6947100007c_007",
+              "question": "Which proteins form the nuclear pore basket in human cells?"
+            }
+          ],
+          "context": "Incorporation of the nuclear pore basket protein nup153 into nuclear pore structures is dependent upon lamina assembly: evidence from cell-free extracts of Xenopus eggs."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c641179e842deac67000012_001",
+              "question": "What are the effects of STEF depletion?"
+            }
+          ],
+          "context": "The mechanisms regulating the actin cap are currently poorly understood. Here, we demonstrate that STEF/TIAM2, a Rac1 selective guanine nucleotide exchange factor, localises at the nuclear envelope, co-localising with the key perinuclear proteins Nesprin-2G and Non-muscle myosin IIB (NMMIIB), where it regulates perinuclear Rac1 activity. We show that STEF depletion reduces apical perinuclear actin cables (a phenotype rescued by targeting active Rac1 to the nuclear envelope), increases nuclear height and impairs nuclear re-orientation. STEF down-regulation also reduces perinuclear pMLC and decreases myosin-generated tension at the nuclear envelope, suggesting that STEF-mediated Rac1 activity regulates NMMIIB activity to promote stabilisation of the perinuclear actin cap. Finally, STEF depletion decreases nuclear stiffness and reduces expression of TAZ-regulated genes, indicating an alteration in mechanosensing pathways as a consequence of disruption of the actin cap."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c641c60e842deac67000013_001",
+              "question": "Which databases can exchange data using Matchmaker Exchange's API?"
+            }
+          ],
+          "context": "To facilitate such communication and improve the search for patients or model organisms with similar phenotypes and variants in specific candidate genes, we have developed the Matchmaker Exchange (MME). MME was created to establish a federated network connecting databases of genomic and phenotypic data using a common application programming interface (API). To date, seven databases can exchange data using the API (GeneMatcher, PhenomeCentral, DECIPHER, MyGene2, matchbox, Australian Genomics Health Alliance Patient Archive, and Monarch Initiative; the latter included for model organism matching)."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c645313e842deac67000019_001",
+              "question": "What are the effects of the deletion of all three Pcdh clusters (tricluster deletion) in mice?"
+            }
+          ],
+          "context": "Multicluster Pcdh diversity is required for mouse olfactory neural circuit assembly."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c645313e842deac67000019_002",
+              "question": "What are the effects of the deletion of all three Pcdh clusters (tricluster deletion) in mice?"
+            }
+          ],
+          "context": "The vertebrate clustered protocadherin (Pcdh) cell surface proteins are encoded by three closely linked gene clusters (Pcdh\u03b1, Pcdh\u03b2, and Pcdh\u03b3). Here, we show that all three gene clusters functionally cooperate to provide individual mouse olfactory sensory neurons (OSNs) with the cell surface diversity required for their assembly into distinct glomeruli in the olfactory bulb. Although deletion of individual Pcdh clusters had subtle phenotypic consequences, the loss of all three clusters (tricluster deletion) led to a severe axonal arborization defect and loss of self-avoidance."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6ffdd47c78d69471000058_001",
+              "question": "What micro-RNAs are useful in the diagnosis and prognosis of Heart Failure?"
+            }
+          ],
+          "context": "n this review, we discuss the role of miR-214 in various cardiac disease conditions, including ischaemic heart diseases, cardiac hypertrophy, pulmonary arterial hypertension (PAH), angiogenesis following vascular injury and heart failure."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6ffdd47c78d69471000058_002",
+              "question": "What micro-RNAs are useful in the diagnosis and prognosis of Heart Failure?"
+            }
+          ],
+          "context": "Likewise, serum levels of c-miRNAs such as miR-423-5p have been evaluated as potential biomarkers in the diagnosis and prognosis of heart failure"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6ffdd47c78d69471000058_003",
+              "question": "What micro-RNAs are useful in the diagnosis and prognosis of Heart Failure?"
+            }
+          ],
+          "context": "Serum levels of circulating miRNAs such as miR-423-5p are being evaluated as potential biomarkers in the diagnosis and prognosis of heart failure."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c5f11c31a4c55d80b000015_001",
+              "question": "List proteins interacting with Star-PAP"
+            }
+          ],
+          "context": "Star-PAP and PIPKIalpha function together in a complex"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c5f11c31a4c55d80b000015_002",
+              "question": "List proteins interacting with Star-PAP"
+            }
+          ],
+          "context": "Phosphorylation regulates the Star-PAP-PIPKI\u03b1 interaction and directs specificity toward mRNA targets."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c5f11c31a4c55d80b000015_003",
+              "question": "List proteins interacting with Star-PAP"
+            }
+          ],
+          "context": ", we show that Larp7 interacts with a poly(A) polymerase Star-PAP to maintain Lin28 mRNA stability. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c5f11c31a4c55d80b000015_004",
+              "question": "List proteins interacting with Star-PAP"
+            }
+          ],
+          "context": "Star-PAP directly associated with cleavage and polyadenylation specificity factor (CPSF) 160 and 73 subunits and also the targeted pre-mRNA. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c61bd04e842deac67000002_001",
+              "question": "Which two drugs are included in the Entresto pill?"
+            }
+          ],
+          "context": "A novel antihypertensive drug, LCZ696 (Entresto\u00ae), has recently been introduced, which combines the action of an antagonist of the renin-angiotensin-aldosterone system (RAAS), effectively decreasing the blood pressure, with an inhibition of neprilysin, which is responsible for metabolizing natriuretic peptides exerting antihypertensive and antifibrotic effects."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c61bd04e842deac67000002_002",
+              "question": "Which two drugs are included in the Entresto pill?"
+            }
+          ],
+          "context": "METHODS AND RESULTS: The ENTRESTO-SAS trial is a 3-month, multicentric, prospective, open-label real-life cohort study. Patients eligible for sacubitril-valsartan treatment (i.e. adults with left ventricular ejection fraction \u226435%, who remain symptomatic despite optimal treatment with an angiotensin-converting enzyme inhibitor, a beta-blocker, and a mineralocorticoid receptor antagonist) will be evaluated before and after 3\u00a0months of treatment (nocturnal ventilatory polygraphy, echocardiography, laboratory testing, and quality-of-life and SDB questionnaires). "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c61bd04e842deac67000002_003",
+              "question": "Which two drugs are included in the Entresto pill?"
+            }
+          ],
+          "context": " We sought to assess in the ENTRESTO-SAS trial whether sacubitril-valsartan could improve the outcome of SDB in CHF patients."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c61bd04e842deac67000002_004",
+              "question": "Which two drugs are included in the Entresto pill?"
+            }
+          ],
+          "context": "This positive change in regulatory perspective coupled with successful commercialization of valsartan-sacubitril co-crystal (Entresto, Novartis) has now brought co-crystals into focus, in both industries as well as academia."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c61bd04e842deac67000002_005",
+              "question": "Which two drugs are included in the Entresto pill?"
+            }
+          ],
+          "context": "We present a case of a 61-year-old man with ischemic cardiomyopathy receiving sacubitril/valsartan (Entresto; Novartis, Cambridge, MA) who developed profound hypotension after HT."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c61bd04e842deac67000002_006",
+              "question": "Which two drugs are included in the Entresto pill?"
+            }
+          ],
+          "context": "Recently, the Food and Drug Administration (FDA) approved a drug with brand name Entresto (Sacubitril/Valsartan or LCZ696), an angiotensin receptor neprilysin inhibitor for the use in Heart Failure with Reduced Ejection Fraction (HFrEF) patients instead of ACEI's and ARBs."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c61bd04e842deac67000002_007",
+              "question": "Which two drugs are included in the Entresto pill?"
+            }
+          ],
+          "context": "A prospective, randomized, double-blind, placebo-controlled pilot study of sacubitril/valsartan (Entresto) in dogs with cardiomegaly secondary to myxomatous mitral valve disease."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c654b3de842deac67000024_001",
+              "question": "Name 3 diseases for which lucatumumab is being tested?"
+            }
+          ],
+          "context": "Here, Dacetuzumab and Lucatumumab are in the most advanced stage and are being tested as treatment for malignancies such as chronic lymphatic leukemia (CLL), Multiple Myeloma (MM), and non-Hodgkin's lymphoma (NHL)."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6c46677c78d69471000035_001",
+              "question": "List available R packages for processing NanoString data"
+            }
+          ],
+          "context": "NanoStringNorm: an extensible R package for the pre-processing of NanoString mRNA and miRNA data."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6c46677c78d69471000035_002",
+              "question": "List available R packages for processing NanoString data"
+            }
+          ],
+          "context": "The NanoString nCounter Platform is a new and promising technology for measuring nucleic acid abundances. It has several advantages over PCR-based techniques, including avoidance of amplification, direct sequence interrogation and digital detection for absolute quantification. These features minimize aspects of experimental error and hold promise for dealing with challenging experimental conditions such as archival formalin-fixed paraffin-embedded samples. However, systematic inter-sample technical artifacts caused by variability in sample preservation, bio-molecular extraction and platform fluctuations must be removed to ensure robust data.RESULTS: To facilitate this process and to address these issues for NanoString datasets, we have written a pre-processing package called NanoStringNorm in the R statistical language."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6c46677c78d69471000035_003",
+              "question": "List available R packages for processing NanoString data"
+            }
+          ],
+          "context": "NanoStringNormCNV: pre-processing of NanoString CNV data."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6c46677c78d69471000035_004",
+              "question": "List available R packages for processing NanoString data"
+            }
+          ],
+          "context": "The NanoString System is a well-established technology for measuring RNA and DNA abundance. Although it can estimate copy number variation, relatively few tools support analysis of these data. To address this gap, we created NanoStringNormCNV, an R package for pre-processing and copy number variant calling from NanoString data. This package implements algorithms for pre-processing, quality-control, normalization and copy number variation detection. A series of reporting and data visualization methods support exploratory analyses. To demonstrate its utility, we apply it to a new dataset of 96 genes profiled on 41 prostate tumour and 24 matched normal samples."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6585287c78d69471000004_001",
+              "question": "For which indications has midostaurin received FDA and EMA approval?"
+            }
+          ],
+          "context": "Midostaurin: A Multiple Tyrosine Kinases Inhibitor in Acute Myeloid Leukemia and Systemic Mastocytosis."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6585287c78d69471000004_002",
+              "question": "For which indications has midostaurin received FDA and EMA approval?"
+            }
+          ],
+          "context": "Midostaurin was approved by the Food and Drug Administration (FDA) and the European Medical Agency (EMA) for acute myeloid leukemia with activating FLT3 mutations in combination with intensive induction and consolidation therapy as well as aggressive systemic mastocytosis (ASM), systemic mastocytosis with associated hematological neoplasm (SM-AHN) or mast cell leukemia (MCL)."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c76c1457c78d694710000a6_001",
+              "question": "List MHC-I-associated inflammatory disorders."
+            }
+          ],
+          "context": "This review will focus on the four major MHC-I-associated inflammatory disorders: ankylosing spondylitis, birdshot chorioretinopathy, Beh\u00e7et's disease and psoriasis."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c76c1457c78d694710000a6_002",
+              "question": "List MHC-I-associated inflammatory disorders."
+            }
+          ],
+          "context": "Birdshot chorioretinopathy is a rare ocular inflammation whose genetic association with HLA-A*29:02 is the highest between a disease and a major histocompatibility complex (MHC) molecule. It belongs to a group of MHC-I-associated inflammatory disorders, also including ankylosing spondylitis, psoriasis, and Beh\u00e7et's disease"
+        }
+      ],
+      "title": "BioASQ6b"
+    }
+  ],
+  "version": "BioASQ6b"
+}
